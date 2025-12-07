@@ -1,4 +1,7 @@
 # The movie app
+
+![img.png](img.png)
+
 This application is a movie library app.
 
 it uses React and Vite and makes use of the TMDB API.
